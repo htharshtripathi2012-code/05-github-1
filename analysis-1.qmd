@@ -4,3 +4,4 @@ author: "Harsh Tripathi"
 format: html
 ---
 
+Harsh Tripathi is a data maestro
